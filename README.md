@@ -2,7 +2,7 @@
 
 A dynamic scheduling tool for the working hours of any given day.
 
-![Screenshot of Workday Scheduler application](./assets/images/application-screenshot.jpg)
+![Screenshot of Workday Scheduler application](./Assets/images/application-screenshot.jpg)
 
 Link to live application: https://misterbham.github.io/workday-scheduler/
 
